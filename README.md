@@ -37,14 +37,14 @@ Curious about **TanStack Start**, **streaming UIs**, and the edge where design m
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/diego_fsd" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/twitter" alt="Twitter" height="30" width="40" />
+  <a href="https://github.com/diego-tech-dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-diego--tech--dev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/diego-garcia-brisa/" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="30" width="40" />
+  <a href="https://x.com/diegogb_dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-@diegogb_dev-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://stackoverflow.com/users/15155258/diego-garcia-brisa" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/diego-garcia-brisa/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Diego_Garcia_Brisa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
